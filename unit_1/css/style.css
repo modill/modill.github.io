@@ -1,3 +1,5 @@
-body {background-color: green;}
+body {
+	background-color: green;
+	color: silver
+	font: Arial;}
 h1 {color: silver;}
-p {color: silver;}
