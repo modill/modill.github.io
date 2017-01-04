@@ -1,5 +1,12 @@
 body {
 	color: silver;
 	background-color: blue;
-	font: Arial, sans-serif;}
-h1 {color: silver;}
+	font-family: cursive;
+}
+h1{
+	color: silver;
+	font-family: cursive;
+}
+p{
+	color: silver
+}
