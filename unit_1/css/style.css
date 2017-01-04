@@ -1,11 +1,13 @@
 body {
 	color: silver;
-	background-color: blue;
+	background-color: 9E5DBF;
 	font-family: Arial, sans-serif;
 }
 h1{
-	color: silver;
+	color: black;
+	font-family: Arial, sans-serif;
 }
 p{
-	color: white
+	color: 351F40
+	font-family: Arial, sans-serif;
 }
