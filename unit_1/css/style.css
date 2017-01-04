@@ -1,6 +1,6 @@
 body {
-	color: 808000;
-	background-color: 808000;
+	color: #808000;
+	background-color: #808000;
 	font-family: Arial, sans-serif;
 }
 h1{
@@ -9,5 +9,5 @@ h1{
 }
 p{
 	color: silver
-	font-family: Arial, sans-serif;
+	font: Arial, sans-serif;
 }
