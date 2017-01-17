@@ -1,5 +1,5 @@
 body {
-	color: #39667F;
+	background-color: #39667F;
 }
 h1 {
 	text-transform: uppercase;
@@ -13,5 +13,8 @@ h1 {
 	font-family: Helvetica, sans-serif;
 	font-weight: 300;
 	color: #1C3340;
+	text-align: center;
+}
+.paragraph {
 	text-align: center;
 }
