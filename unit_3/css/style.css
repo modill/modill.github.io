@@ -1,0 +1,17 @@
+body {
+	color: #39667F;
+}
+h1 {
+	text-transform: uppercase;
+	font-family: Helvetica, sans-serif;
+	font-weight: 700;
+	color: #FFFFFF;
+	text-align: center;
+}
+#slogan {
+	text-transform: lowercase;
+	font-family: Helvetica, sans-serif;
+	font-weight: 300;
+	color: #1C3340;
+	text-align: center;
+}
