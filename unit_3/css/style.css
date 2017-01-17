@@ -1,6 +1,9 @@
 body {
-	background-color: #4E82A3;
+	background-color: #FFFFFF;
+	color: #4E823A;
+	padding: 40px;
 }
+
 h1 {
 	text-transform: uppercase;
 	font-family: Helvetica, sans-serif;
@@ -8,6 +11,11 @@ h1 {
 	color: #FFFFFF;
 	text-align: center;
 }
+
+#photo {
+	align-content: center;
+}
+
 #slogan {
 	text-transform: lowercase;
 	font-family: Helvetica, sans-serif;
@@ -15,6 +23,7 @@ h1 {
 	color: #1C3340;
 	text-align: center;
 }
+
 .paragraph {
 	text-align: center;
 	font-family: "Gill Sans", sans-serif;
