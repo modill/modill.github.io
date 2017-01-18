@@ -18,10 +18,6 @@ footer {
 	padding: 15px;
 	color: #4E823A;
 	text-align: center;
-}
-
-a {
-	color: inherit;
 	text-decoration: none;
 }
 
@@ -50,6 +46,7 @@ img {
 	color: #4E823A;
 	text-align: center;
 	margin: 6px;
+	text-decoration: none;
 }
 
 #slogan {
