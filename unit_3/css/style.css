@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Trirong');
+
 * {
 	padding: 0;
 	margin: 0;
@@ -22,13 +24,14 @@ footer {
 }
 
 a {
+	font-family: 'Cabin', sans-serif;
 	color: inherit;
 	text-decoration: none;
 }
 
 h1 {
 	text-transform: uppercase;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Trirong', serif;
 	font-weight: 700;
 	color: #4E823A;
 	text-align: center;
@@ -46,24 +49,28 @@ img {
 }
 
 #navbar {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-weight: 500;
 	color: #4E823A;
 	text-align: center;
 	margin: 6px;
 	text-decoration: none;
+	letter-spacing: 2px;
 }
 
 #slogan {
 	text-transform: lowercase;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-weight: 500;
 	color: #1C3340;
 	text-align: center;
+	line-height: 2em;
 }
 
 .paragraph {
 	text-align: center;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-weight: 500;
+	margin-left: 25px;
+	margin-right: 25px;
 }
