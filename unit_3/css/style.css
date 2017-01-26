@@ -7,7 +7,7 @@
 
 header {
 	background: #FFFFFF;
-	padding: 15px;
+	padding: 10px;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 
 footer {
 	background: #FFFFFF;
-	padding: 15px;
+	padding: 10px;
 	color: #4E823A;
 	text-align: center;
 	text-decoration: none;
@@ -32,7 +32,7 @@ a {
 h1 {
 	text-transform: uppercase;
 	font-family: 'Trirong', serif;
-	font-weight: 700;
+	font-weight: 900;
 	color: #4E823A;
 	text-align: center;
 }
@@ -59,7 +59,6 @@ img {
 }
 
 #slogan {
-	text-transform: lowercase;
 	font-family: 'Cabin', sans-serif;
 	font-weight: 500;
 	color: #1C3340;
