@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Pacifico');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+head {
+	background-color: #000
+
+}
+
+body {
+	background-color: #000
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-weight: 800px;
+	color: #FFF;
+	text-align: center
+}
+
+h2 {
+	font-family: 'Arvo', serif;
+	font-weight: 600px;
+	color: #FFF;
+	text-align: center
+}
+
+.intro {
+	color: #FFF
+}
+
+.option1 {
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+.option2 {
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.option3 {
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+.option4 {
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
