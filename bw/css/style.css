@@ -56,6 +56,11 @@ p {
     width: 400px;
 }
 
+#caption {
+    color: #FFF;
+    text-align: center;
+}
+
 
 /*.option1 {
     border: 1px black solid;
