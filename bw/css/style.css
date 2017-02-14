@@ -29,11 +29,20 @@ h2 {
 }
 
 img {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
+    vertical-align: center;
 }
 
-.intro {
+.caption {
+    margin: 5px; 
+    text-align: center; 
+    font-style: italic; 
+    font-size: 12px; 
+    float: left;
+}
+
+/*.intro {
 	color: #FFF
 }
 
@@ -63,4 +72,4 @@ img {
     padding: 20px;
     float: right;   
     width: 62%;
-}
+}*/
