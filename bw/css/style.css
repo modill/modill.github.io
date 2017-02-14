@@ -33,6 +33,14 @@ img {
     height: 200px;
 }
 
+footer {
+    color: #FFF;
+}
+
+p {
+    color: #FFF
+}
+
 .caption {
     margin: 5px; 
     text-align: center; 
