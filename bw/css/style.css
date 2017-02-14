@@ -42,11 +42,12 @@ img {
     float: left;
 }
 
-/*.intro {
-	color: #FFF
+.intro {
+    color: #FFF
 }
 
-.option1 {
+
+/*.option1 {
     border: 1px black solid;
     padding: 20px;
     float: left;
