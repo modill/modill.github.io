@@ -36,31 +36,23 @@ img {
 footer {
     color: #FFF;
     text-align: center;
+    text-decoration: none;
 }
 
-p {
+#intoro {
     color: #FFF
+    text-align: center;
+    width: 400px;
 }
 
 .caption {
+    color: #FFF;
     margin: 5px; 
     text-align: center; 
     font-style: italic; 
     font-size: 12px; 
     float: left;
 }
-
-.intro {
-    color: #FFF
-    text-align: center;
-    width: 400px;
-}
-
-#caption {
-    color: #FFF;
-    text-align: center;
-}
-
 
 /*.option1 {
     border: 1px black solid;
