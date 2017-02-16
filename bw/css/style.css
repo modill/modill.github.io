@@ -62,33 +62,4 @@ table {
     text-align: center; 
     font-style: italic; 
     font-size: 12px; 
-    float: left;
 }
-
-/*.option1 {
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    width: 30%;
-}
-
-.option2 {
-    border: 1px black solid;
-    padding: 20px;
-    float: right;   
-    width: 62%;
-}
-
-.option3 {
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    width: 30%;
-}
-
-.option4 {
-    border: 1px black solid;
-    padding: 20px;
-    float: right;   
-    width: 62%;
-}*/
