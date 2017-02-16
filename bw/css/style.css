@@ -48,14 +48,15 @@ table {
 #intro {
     color: #FFF;
     font-family: 'Arvo', serif;
-    position: fixed;
+    text-align: center;
+    width: 900px;
+      /*position: fixed;
     top: 50%;
     left: 50%;
     height: 400px;
     margin-top: -200px;
     width: 600px;
-    margin-left: -300px;
-    text-align: center;
+    margin-left: -300px;*/
 }
 
 .header {
