@@ -16,14 +16,14 @@ body {
 
 h1 {
 	font-family: 'Pacifico', cursive;
-	font-weight: 800px;
+	font-weight: 900px;
 	color: #FFFFFF;
 	text-align: center
 }
 
 h2 {
 	font-family: 'Arvo', serif;
-	font-weight: 600px;
+	font-weight: 700px;
 	color: #FFF;
 	text-align: center
 }
@@ -47,12 +47,19 @@ table {
 
 #intro {
     color: #FFF;
-    width: 60%;
+    /*position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 400px;
+    margin-top: -200px;
+    width: 600px;
+    margin-left: -300px;*/
+    /*width: 60%;
     top: 20%;
     bottom: 20%;
     height: 80%;
     left: 10%;
-    right: 10%;
+    right: 10%;*/
     text-align: center;
 }
 
@@ -62,4 +69,9 @@ table {
     text-align: center; 
     font-style: italic; 
     font-size: 12px; 
+}
+
+.header {
+    font-family: 'Noto Serif', serif;
+    font-weight: 400px;
 }
