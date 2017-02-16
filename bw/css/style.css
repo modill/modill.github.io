@@ -47,10 +47,9 @@ table {
 
 #intro {
     color: #FFF;
-    position: fixed;
-    width: 80%;
-    top: 10%;
-    bottom: 10%;
+    width: 60%;
+    top: 20%;
+    bottom: 20%;
     height: 80%;
     left: 10%;
     right: 10%;
