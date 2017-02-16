@@ -35,10 +35,20 @@ footer {
     text-decoration: none;
 }
 
+table { 
+    margin: 1em auto;
+    color: #FFFFFF;
+ }
+
 #intro {
-    color: #FFF
-    width: 400px;
-    text-align: center;
+    color: #FFF;
+    position: fixed;
+    width: 80%;
+    top: 10%;
+    bottom: 10%;
+    height: 80%;
+    left: 10%;
+    right: 10%;
 }
 
 .caption {
