@@ -10,7 +10,7 @@ header {
 }
 
 body {
-	background: #000000
+	background: #000000;
     color: #FFFFFF;
 }
 
@@ -53,6 +53,7 @@ table {
     height: 80%;
     left: 10%;
     right: 10%;
+    text-align: center;
 }
 
 .caption {
