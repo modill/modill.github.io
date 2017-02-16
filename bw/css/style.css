@@ -5,8 +5,12 @@
 	margin: 0;
 }
 
+header {
+    background: #000000;
+}
+
 body {
-	background-color: #000000
+	background: #000000
     color: #FFFFFF;
 }
 
@@ -30,6 +34,7 @@ img {
 }
 
 footer {
+    background: #000000;
     color: #FFFFFF;
     text-align: center;
     text-decoration: none;
