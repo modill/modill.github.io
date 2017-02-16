@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-	font-family: 'Arvo', serif;
+	font-family: 'Noto Serif', serif;
 	font-weight: 700px;
 	color: #FFF;
 	text-align: center
@@ -47,6 +47,7 @@ table {
 
 #intro {
     color: #FFF;
+    font-family: 'Arvo', serif;
     position: fixed;
     top: 50%;
     left: 50%;
@@ -54,24 +55,11 @@ table {
     margin-top: -200px;
     width: 600px;
     margin-left: -300px;
-    /*width: 60%;
-    top: 20%;
-    bottom: 20%;
-    height: 80%;
-    left: 10%;
-    right: 10%;*/
     text-align: center;
-}
-
-.caption {
-    color: #FFF;
-    margin: 5px; 
-    text-align: center; 
-    font-style: italic; 
-    font-size: 12px; 
 }
 
 .header {
     font-family: 'Noto Serif', serif;
     font-weight: 400px;
+    padding: 5px;
 }
