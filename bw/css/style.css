@@ -5,19 +5,15 @@
 	margin: 0;
 }
 
-head {
-    background-color: #000
-}
-
 body {
-	background-color: #000
-    color: #FFF;
+	background-color: #000000
+    color: #FFFFFF;
 }
 
 h1 {
 	font-family: 'Pacifico', cursive;
 	font-weight: 800px;
-	color: #FFF;
+	color: #FFFFFF;
 	text-align: center
 }
 
@@ -34,7 +30,7 @@ img {
 }
 
 footer {
-    color: #FFF;
+    color: #FFFFFF;
     text-align: center;
     text-decoration: none;
 }
