@@ -15,7 +15,7 @@ body {
 }
 
 a {
-    text-decoration: none;
+    color: #FFFFFF;
 }
 
 h1 {
@@ -42,7 +42,6 @@ footer {
     background: #000000;
     color: #FFFFFF;
     text-align: center;
-    text-decoration: none;
 }
 
 table { 
@@ -56,7 +55,7 @@ table {
     text-align: center;
     width: 900px;
     position: static;
-    margin: 10px;
+    margin: 10px auto;
 }
 
 .header {
